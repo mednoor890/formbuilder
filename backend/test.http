@@ -1,0 +1,8 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+"fullName":"med",
+"email":"http@hotmail.fr",
+"password":"00000"
+}
